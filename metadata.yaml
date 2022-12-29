@@ -1,5 +1,8 @@
 _repo: O-retrato-de-Venus-e-estudos-de-historia-litteraria_69423
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69423-h/images/cover.jpg
 creator:
   author:
     agent_name: Almeida Garrett, João Batista da Silva Leitão de Almeida Garrett,
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Almeida_Garrett
     - https://pt.wikipedia.org/wiki/Almeida_Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69423#O-retrato-de-Venus-e-estudos-de-historia-litteraria
 gutenberg_issued: '2022-11-26'
 identifiers:
   gutenberg: '69423'
